@@ -1,7 +1,7 @@
 # cripto-curso-react Getting Started with Create React App
 
 Proyecto 6: Cotizador de Criptomonedas.\
-Curso: React - La Guía Completa Hooks Context Redux MERN +15 Apps
+Curso: React - La Guía Completa Hooks Context Redux MERN +15 Apps.\
 Demo: [Demo](https://stoic-kare-4f7a69.netlify.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
